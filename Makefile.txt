@@ -1,0 +1,5 @@
+all:
+	gcc *.c -o prog3
+
+clean:
+	rm -rf *~ *.o *.out *.txt prog3
